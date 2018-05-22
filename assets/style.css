@@ -3721,6 +3721,10 @@ fieldset[disabled] a.btn {
     margin-left: 1rem
 }
 
+.nav-item.active {
+    background: yellow;
+}
+
 .input-group-btn:last-child>.btn-group:active,
 .input-group-btn:last-child>.btn-group:focus,
 .input-group-btn:last-child>.btn-group:hover,
