@@ -1,4 +1,4 @@
-# Angular 練功坊 - 檔案說明
+# Angular 練功坊 進階實戰班 - 樣板檔案說明
 
 - `assets/`：CSS樣式檔存放目錄
 - `head.html`：放在頁面的`<head></head>`之間
